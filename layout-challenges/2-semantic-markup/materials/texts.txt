@@ -34,13 +34,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 Post a comment
 
-Name  
+Name
 
-E-mail  
+E-mail
 
-Website  
+Website
 
-Comment  
+Comment
 
 Post comment
 
